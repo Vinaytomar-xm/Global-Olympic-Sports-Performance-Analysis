@@ -44,6 +44,16 @@ The project transforms Olympic data into meaningful visual insights to understan
 6. Develop a Tableau Story to communicate the findings.
 7. Interpret the results and summarize key observations.
 
+## 📂 Dataset
+
+This project uses the **120 Years of Olympic History: Athletes and Results** dataset from Kaggle.
+
+- **Source:** [120 Years of Olympic History — Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+- **Dataset Contents:** Historical Olympic athlete records, participating countries, sports, events, and medal results.
+- **Purpose:** To analyze Olympic medal distributions, compare country-wise performance, and explore participation and performance trends across Olympic editions.
+
+
+
 ## 💡 Expected Outcomes
 
 This project demonstrates how data visualization can simplify complex sports data and help users identify patterns, compare performance, and understand Olympic medal achievements.
