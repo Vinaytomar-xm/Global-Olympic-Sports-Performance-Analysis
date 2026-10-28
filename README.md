@@ -2,7 +2,7 @@
 
 ## 🎥 Project Demo
 
-[Watch Global Olympic Sports Performance Analysis](https://drive.google.com/file/d/1xbeW2GhwwXOMYjrsiPKjIbaLKyG92uA0/view?usp=sharing)
+[Watch Global Olympic Sports Performance Analysis](https://drive.google.com/file/d/1GOF5YjmRZUAzKtp_1Anyj9U-bArejI4O/view?usp=sharing)
 
 ## 📌 Project Overview
 
