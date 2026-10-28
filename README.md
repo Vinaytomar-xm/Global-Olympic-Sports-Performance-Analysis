@@ -55,8 +55,6 @@ This project demonstrates how data visualization can simplify complex sports dat
 3. Open the workbook using Tableau Desktop or a compatible Tableau application.
 4. Explore the dashboards, charts, and available filters.
 
-If a published Tableau Public link is provided, you can also view the dashboard directly in your browser.
-
 ## 👨‍💻 Author
 
 **Made by Vinay Singh Tomar**
